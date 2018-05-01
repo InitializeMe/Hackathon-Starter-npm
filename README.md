@@ -67,7 +67,7 @@ npm install
 node app.js
 ```
 
-This npm package can be installed globally, and consists of a script that does the cloning of the hackathon-starter project for you.  
+Alternatively, this npm package can be installed globally, and consists of a script that does the cloning of the hackathon-starter project for you.  
 
 Install this npm package by installing it globally using:
 ```bash
