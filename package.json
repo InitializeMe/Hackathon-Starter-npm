@@ -1,0 +1,25 @@
+{
+  "name": "hackathon-starter-npm",
+  "version": "3.0.0",
+  "description": "Global scripts to create new hackathon-starter projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InitializeMe/Hackathon-Starter-npm.git"
+  },
+  "author": "Yashar Fakhari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InitializeMe/Hackathon-Starter-npm/issues"
+  },
+  "homepage": "https://github.com/InitializeMe/Hackathon-Starter-npm#readme",
+  "bin": {
+    "hackathon-starter": "./cli.js"
+  },
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}
