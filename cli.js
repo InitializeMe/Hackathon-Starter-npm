@@ -37,10 +37,12 @@ program
                 console.log('');
                 console.log('See https://github.com/sahat/hackathon-starter for additional information to get started.');
                 console.log('');
+            } else {
+                console.log('git clone existed with error code: ', code.toString());
             }
         });
     })
-    .version('3.0.0', '-v, --version')
+    .version('3.0.1', '-v, --version')
     .parse(process.argv);
 
 

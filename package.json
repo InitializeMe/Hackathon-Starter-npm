@@ -1,6 +1,6 @@
 {
   "name": "hackathon-starter",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Global scripts to create new hackathon-starter projects",
   "main": "index.js",
   "scripts": {
